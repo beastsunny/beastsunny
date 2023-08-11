@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beastsunny
-- 👀 I’m interested in ... JS
-- 🌱 I’m currently learning ... JS
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... Rract
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ig-thebeast_sunny
 
